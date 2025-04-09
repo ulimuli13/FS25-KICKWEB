@@ -1,16 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
-body {
-    font-family: 'Roboto Condensed';
-    margin: 0px;
-    margin-left: 10px;
-    margin-right: 10px;
-    height: 100vh;
-    align-content: center;
-    
-
-}
-
 .back-button{
     font-family: 'Roboto Condensed';
     position: fixed;
@@ -23,6 +12,19 @@ body {
     text-decoration: none;
     font-weight: bold;
 }
+
+body {
+    font-family: 'Roboto Condensed';
+    margin: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+    align-content: center;
+    
+
+}
+
+
 
 .inhalt {
     display: inline-block;
