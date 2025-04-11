@@ -1,16 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+
+
 .back-button{
     font-family: 'Roboto Condensed';
     position: fixed;
-    top: 40px;
-    right: 60px;
     background-color: rgb(233, 232, 232);
+    bottom: 40px;
+    right: 60px;
     padding: 8px 40px;
     border-radius: 2px;
+    border: 2px;
+    border-color: black;
     color: black;
     text-decoration: none;
     font-weight: bold;
+    z-index: 9999;
 }
 
 body {
